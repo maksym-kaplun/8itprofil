@@ -1,0 +1,1 @@
+const homeView = "<h2>Domů</h2><p>Toto je domovská stránka.</p>";

@@ -1,0 +1,1 @@
+const skillsView = "<h2>Dovednosti</h2><p>HTML, CSS, JS.</p>";

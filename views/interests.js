@@ -1,0 +1,1 @@
+const interestsView = "<h2>Zájmy</h2><p>Sport, hudba, programování.</p>";
